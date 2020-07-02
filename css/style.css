@@ -1,5 +1,5 @@
 body {
-      min-width: 1050px;
+      min-width: 1040px;
       margin: 0;
       padding: 0;
       font-family: Tahoma, sans-serif;
@@ -9,7 +9,7 @@ body {
 }
 
 .container {
-      width: 1040px;
+      width: 1010px;
       margin: 0 auto;
       padding: 0 10px;
 }
@@ -17,11 +17,11 @@ body {
 .main-header {
       padding-top: 32px;
       padding-bottom: 79px;
-      background-color: #6451d5;
+      background-color: #ffff00;
 }
 
 .header-top {
-      margin-bottom: 100px;
+      margin-bottom: 150px;
 }
 
 .header-top::after {
